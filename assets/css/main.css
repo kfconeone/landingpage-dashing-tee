@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "dgo";
+  src: local("dgo"), url(/fonts/dgo-regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: "taipei-black";
+  src: local("taipei-black"), url(/fonts/taipei-black.ttf) format("truetype");
+}
+@font-face {
+  font-family: "jenhei";
+  src: local("jenhei"), url(/fonts/jenhei.ttf) format("truetype");
+}
