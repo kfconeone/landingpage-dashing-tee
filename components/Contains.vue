@@ -3,7 +3,7 @@
     <div class="w-full bg-[#E8E4FF]">
       <div class="w-full max-w-[1920px] pb-[86px] pc:pb-[183px] relative">
         <div class="absolute w-[750px] pc:w-[1000px] z-0 left-0 top-[9.5%] pc:top-[10%]">
-          <img src="imgs/bg-contains.png" />
+          <img src="/imgs/bg-contains.png" />
         </div>
         <div class="pt-8 pc:pt-16 pb-12 pc:pb-24 relative z-1">
           <div class="flex gap-[11px] pc:gap-[34px] pl-20 pc:pl-[153px] items-center pc:items-start">
