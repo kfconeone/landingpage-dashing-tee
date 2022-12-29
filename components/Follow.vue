@@ -46,32 +46,32 @@ function onSlidePrevClickedForMobile() {
               <swiper id="pc-swiper" :slides-per-view="4" :space-between="10" @swiper="onSwiper" @slideChange="onSlideChange" :loop="true">
                 <swiper-slide>
                   <div class="w-full">
-                    <img src="imgs/sp-1.png" />
+                    <img src="/imgs/sp-1.png" />
                   </div>
                 </swiper-slide>
                 <swiper-slide>
                   <div class="w-full">
-                    <img src="imgs/sp-2.png" />
+                    <img src="/imgs/sp-2.png" />
                   </div>
                 </swiper-slide>
                 <swiper-slide>
                   <div class="w-full">
-                    <img src="imgs/sp-3.png" />
+                    <img src="/imgs/sp-3.png" />
                   </div>
                 </swiper-slide>
                 <swiper-slide>
                   <div class="w-full">
-                    <img src="imgs/sp-4.png" />
+                    <img src="/imgs/sp-4.png" />
                   </div>
                 </swiper-slide>
                 <swiper-slide>
                   <div class="w-full">
-                    <img src="imgs/sp-5.png" />
+                    <img src="/imgs/sp-5.png" />
                   </div>
                 </swiper-slide>
                 <swiper-slide>
                   <div class="w-full">
-                    <img src="imgs/sp-6.png" />
+                    <img src="/imgs/sp-6.png" />
                   </div>
                 </swiper-slide>
               </swiper>
@@ -112,32 +112,32 @@ function onSlidePrevClickedForMobile() {
               <swiper id="sm-swiper" :slides-per-view="2" :space-between="5" @swiper="onSwiper" @slideChange="onSlideChange" :loop="true">
                 <swiper-slide>
                   <div class="w-full">
-                    <img src="imgs/sp-1.png" />
+                    <img src="/imgs/sp-1.png" />
                   </div>
                 </swiper-slide>
                 <swiper-slide>
                   <div class="w-full">
-                    <img src="imgs/sp-2.png" />
+                    <img src="/imgs/sp-2.png" />
                   </div>
                 </swiper-slide>
                 <swiper-slide>
                   <div class="w-full">
-                    <img src="imgs/sp-3.png" />
+                    <img src="/imgs/sp-3.png" />
                   </div>
                 </swiper-slide>
                 <swiper-slide>
                   <div class="w-full">
-                    <img src="imgs/sp-4.png" />
+                    <img src="/imgs/sp-4.png" />
                   </div>
                 </swiper-slide>
                 <swiper-slide>
                   <div class="w-full">
-                    <img src="imgs/sp-5.png" />
+                    <img src="/imgs/sp-5.png" />
                   </div>
                 </swiper-slide>
                 <swiper-slide>
                   <div class="w-full">
-                    <img src="imgs/sp-6.png" />
+                    <img src="/imgs/sp-6.png" />
                   </div>
                 </swiper-slide>
               </swiper>

@@ -25,7 +25,7 @@ onMounted(() => {
             </svg>
           </div>
           <div class="w-[259px]">
-            <img src="imgs/finger.gif" />
+            <img src="/imgs/finger.gif" />
           </div>
           <div class="w-[249px]">
             <svg viewBox="0 0 249 51" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -96,7 +96,7 @@ onMounted(() => {
             </svg>
           </div>
           <div class="w-[200px]">
-            <img src="imgs/finger.gif" />
+            <img src="/imgs/finger.gif" />
           </div>
           <div class="w-[198px]">
             <svg viewBox="0 0 198 41" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -152,11 +152,11 @@ onMounted(() => {
     <div class="bg-[#F9F8F3] pt-[92px] px-[39px]">
       <div class="flex w-full relative justify-center items-center">
         <div class="absolute w-[180px] right-[2%] top-[-2%] z-30">
-          <img src="imgs/star-right.gif" />
+          <img src="/imgs/star-right.gif" />
         </div>
 
         <div class="absolute w-[155px] left-[-5%] bottom-[-5%] z-30">
-          <img src="imgs/star-left.gif" />
+          <img src="/imgs/star-left.gif" />
         </div>
 
         <div class="absolute pt-36 z-30">
@@ -191,11 +191,11 @@ onMounted(() => {
     <div class="bg-[#F9F8F3] py-32 px-3">
       <div class="flex w-full relative justify-center items-center">
         <div class="absolute w-[180px] right-[2%] top-[-20%] z-30">
-          <img src="imgs/star-right.gif" />
+          <img src="/imgs/star-right.gif" />
         </div>
 
         <div class="absolute w-[155px] left-[-5%] bottom-[-10%] z-30">
-          <img src="imgs/star-left.gif" />
+          <img src="/imgs/star-left.gif" />
         </div>
 
         <div class="absolute h-fit z-30">

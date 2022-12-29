@@ -29,22 +29,22 @@
         <div class="flex justify-end text-[#3F3F3F] font-black text-[28px] pc:text-[40px] relative z-1" style="font-family: Arial">
           <div>
             <div class="pc-combed-cotten bg-[#F9F8F3] border-l-[3px] border-solid border-[#3f3f3f] border-y-[3px] flex items-center gap-8 py-10 pl-16 pr-48 relative">
-              <div class="absolute w-[150px] pc-cottonbird pointer-events-none opacity-0"><img src="imgs/cottonbird.jpg" /></div>
+              <div class="absolute w-[150px] pc-cottonbird pointer-events-none opacity-0"><img src="/imgs/cottonbird.jpg" /></div>
               <p>100%</p>
               <p>Combed Cotton</p>
             </div>
             <div class="pc-exciting-story mt-7 relative bg-[#F9F8F3] border-l-[3px] border-solid border-[#3f3f3f] border-y-[3px] flex items-center gap-8 py-10 pl-16 pr-48">
-              <div class="absolute w-[150px] pc-fatguy pointer-events-none opacity-0"><img src="imgs/fatguy.jpg" /></div>
+              <div class="absolute w-[150px] pc-fatguy pointer-events-none opacity-0"><img src="/imgs/fatguy.jpg" /></div>
               <p>123%</p>
               <p>Exciting Story</p>
             </div>
             <div class="pc-bts-zone mt-7 bg-[#F9F8F3] border-l-[3px] border-solid border-[#3f3f3f] border-y-[3px] flex items-center gap-8 py-10 pl-16 pr-48">
-              <div class="absolute w-[150px] pc-bts pointer-events-none opacity-0"><img src="imgs/bts.jpg" /></div>
+              <div class="absolute w-[150px] pc-bts pointer-events-none opacity-0"><img src="/imgs/bts.jpg" /></div>
               <p>613%</p>
               <p>blood sweat tears</p>
             </div>
             <div class="pc-money-zone mt-7 bg-[#F9F8F3] border-l-[3px] border-solid border-[#3f3f3f] border-y-[3px] flex items-center gap-8 py-10 pl-16 pr-48">
-              <div class="pc-money absolute w-[150px] pointer-events-none opacity-0"><img src="imgs/money.jpg" /></div>
+              <div class="pc-money absolute w-[150px] pointer-events-none opacity-0"><img src="/imgs/money.jpg" /></div>
               <p>87%</p>
               <p>Desire to make money</p>
             </div>
@@ -164,7 +164,7 @@
           </div>
         </div>
         <div class="flex justify-center mt-[69px] gap-[23px] items-center">
-          <div class="w-[302px]"><img src="imgs/cottonbird.jpg" /></div>
+          <div class="w-[302px]"><img src="/imgs/cottonbird.jpg" /></div>
           <div>
             <div class="w-[208px]">
               <svg viewBox="0 0 129 107" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -212,7 +212,7 @@
             </div>
             <p class="text-[18px] font-bold text-[#ABABFF] text-center" style="font-family: Arial">Exciting Story</p>
           </div>
-          <div class="w-[274px] border-[1px] border-soild border-[#000000]"><img src="imgs/fatguy.jpg" /></div>
+          <div class="w-[274px] border-[1px] border-soild border-[#000000]"><img src="/imgs/fatguy.jpg" /></div>
         </div>
 
         <div class="flex justify-center mt-12">
@@ -220,7 +220,7 @@
         </div>
 
         <div class="flex justify-center mt-[69px] gap-[23px] items-center">
-          <div class="w-[236px] border-[1px] border-solid border-[#3F3F3F]"><img src="imgs/bts.jpg" /></div>
+          <div class="w-[236px] border-[1px] border-solid border-[#3F3F3F]"><img src="/imgs/bts.jpg" /></div>
           <div class="">
             <div class="w-[246px]">
               <svg viewBox="0 0 153 108" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -267,7 +267,7 @@
             </div>
             <p class="mt-5 text-xl font-bold text-[#ABABFF] text-center opacity-50" style="font-family: Arial">Desire to make money</p>
           </div>
-          <div class="w-[237px] border-[1px] border-soild border-[#000000]"><img src="imgs/money.jpg" /></div>
+          <div class="w-[237px] border-[1px] border-soild border-[#000000]"><img src="/imgs/money.jpg" /></div>
         </div>
         <div class="flex justify-center md-cloth-info-tri">
           <div class="md-cloth-info pt-5 pb-[58px] px-3 absolute top-[85%] border-[1px] border-solid border-[#3f3f3f] bg-white w-[453px] text-[#3f3f3f] font-black text-[13px]" style="font-family: Arial">
@@ -341,7 +341,7 @@
           </div>
         </div>
         <div class="flex justify-center mt-[69px] gap-[23px] items-center">
-          <div class="w-48"><img src="imgs/cottonbird.jpg" /></div>
+          <div class="w-48"><img src="/imgs/cottonbird.jpg" /></div>
           <div>
             <div class="w-[129px]">
               <svg viewBox="0 0 129 107" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -389,7 +389,7 @@
             </div>
             <p class="text-[18px] font-bold text-[#ABABFF] text-center" style="font-family: Arial">Exciting Story</p>
           </div>
-          <div class="w-48 border-[1px] border-soild border-[#000000]"><img src="imgs/fatguy.jpg" /></div>
+          <div class="w-48 border-[1px] border-soild border-[#000000]"><img src="/imgs/fatguy.jpg" /></div>
         </div>
 
         <div class="flex justify-center mt-12">
@@ -397,7 +397,7 @@
         </div>
 
         <div class="flex justify-center mt-[69px] gap-[23px] items-center">
-          <div class="w-[147px] border-[1px] border-solid border-[#3F3F3F]"><img src="imgs/bts.jpg" /></div>
+          <div class="w-[147px] border-[1px] border-solid border-[#3F3F3F]"><img src="/imgs/bts.jpg" /></div>
           <div class="">
             <div class="w-[153px]">
               <svg viewBox="0 0 153 108" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -444,7 +444,7 @@
             </div>
             <p class="mt-5 text-xs font-bold text-[#ABABFF] text-center opacity-50" style="font-family: Arial">Desire to make money</p>
           </div>
-          <div class="w-48 border-[1px] border-soild border-[#000000]"><img src="imgs/money.jpg" /></div>
+          <div class="w-48 border-[1px] border-soild border-[#000000]"><img src="/imgs/money.jpg" /></div>
         </div>
         <div class="flex justify-center sm-cloth-info-tri">
           <div class="sm-cloth-info pt-5 pb-10 px-3 absolute top-[80%] border-[1px] border-solid border-[#3f3f3f] bg-white w-[300px] text-[#3f3f3f] font-black text-[13px]" style="font-family: Arial">

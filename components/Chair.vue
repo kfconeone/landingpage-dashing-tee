@@ -40,15 +40,15 @@ onMounted(() => {
             </div>
 
             <div class="w-[300px] absolute left-[40%] bottom-[10%] z-10">
-              <img src="imgs/code-film.gif" />
+              <img src="/imgs/code-film.gif" />
             </div>
-            <img class="opacity-50" src="imgs/chair.jpg" />
+            <img class="opacity-50" src="/imgs/chair.jpg" />
           </div>
           <div class="flex">
             <div class="w-full flex justify-center border-r-[3px] border-t-[3px] border-solid border-[#3F3F3F]">
               <div class="border-x-[3px] border-solid border-[#3F3F3F]">
                 <video class="video-js" preload="auto" ref="pcvideo" id="pcvideo" width="680" height="763" autoplay loop="true" muted>
-                  <source src="imgs/dashing-concept.mp4" type="video/mp4" />
+                  <source src="/imgs/dashing-concept.mp4" type="video/mp4" />
                 </video>
               </div>
             </div>
@@ -101,15 +101,15 @@ onMounted(() => {
             </div>
 
             <div class="w-[350px] absolute right-[20%] bottom-[20%] z-10">
-              <img src="imgs/code-film.gif" />
+              <img src="/imgs/code-film.gif" />
             </div>
-            <img class="opacity-50" src="imgs/chair.jpg" />
+            <img class="opacity-50" src="/imgs/chair.jpg" />
           </div>
           <div class="flex">
             <div class="w-full flex justify-center border-r-[3px] border-t-[3px] border-solid border-[#3F3F3F]">
               <div class="border-x-[3px] border-solid border-[#3F3F3F]">
                 <video class="video-js" preload="auto" id="xlvideo" width="680" height="763" autoplay loop="true" muted>
-                  <source src="imgs/dashing-concept.mp4" type="video/mp4" />
+                  <source src="/imgs/dashing-concept.mp4" type="video/mp4" />
                 </video>
               </div>
             </div>
@@ -132,9 +132,9 @@ onMounted(() => {
       <div class="flex justify-center">
         <div class="w-[515px] border-[1px] border-solid border-[#3f3f3f] relative">
           <div class="absolute w-[200px] rotate-[-30deg] bottom-[20%] left-[-7.5%] z-10">
-            <img src="imgs/code-film.gif" />
+            <img src="/imgs/code-film.gif" />
           </div>
-          <img class="w-full opacity-50 z-0 relative" src="imgs/chair.jpg" />
+          <img class="w-full opacity-50 z-0 relative" src="/imgs/chair.jpg" />
         </div>
       </div>
       <div class="flex justify-center gap-9 mt-20 items-center">
@@ -155,7 +155,7 @@ onMounted(() => {
       <div class="w-full flex justify-center border-r-[1px] border-y-[1px] border-solid border-[#3F3F3F] mt-[57px]">
         <div class="border-x-[1px] border-solid border-[#3F3F3F]">
           <video class="video-js" preload="auto" id="mdvideo" width="558" height="559" autoplay loop="true" muted>
-            <source src="imgs/dashing-concept.mp4" type="video/mp4" />
+            <source src="/imgs/dashing-concept.mp4" type="video/mp4" />
           </video>
         </div>
       </div>
@@ -175,9 +175,9 @@ onMounted(() => {
       <div class="flex justify-center">
         <div class="w-[261px] border-[1px] border-solid border-[#3f3f3f] relative">
           <div class="absolute w-[100px] rotate-[-30deg] bottom-[20%] left-[-10%] z-10">
-            <img src="imgs/code-film.gif" />
+            <img src="/imgs/code-film.gif" />
           </div>
-          <img class="w-full opacity-50" src="imgs/chair.jpg" />
+          <img class="w-full opacity-50" src="/imgs/chair.jpg" />
         </div>
       </div>
       <div class="flex justify-center gap-9 mt-[35px] items-center sm-chair-text1-tri">
@@ -194,7 +194,7 @@ onMounted(() => {
       <div class="w-full flex justify-center border-r-[1px] border-y-[1px] border-solid border-[#3F3F3F] mt-11">
         <div class="border-x-[1px] border-solid border-[#3F3F3F]">
           <video id="smvideo" width="276" height="276" autoplay loop="true" muted>
-            <source src="imgs/dashing-concept.mp4" type="video/mp4" />
+            <source src="/imgs/dashing-concept.mp4" type="video/mp4" />
           </video>
         </div>
       </div>
